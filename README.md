@@ -11,4 +11,9 @@
 - **User Authentication**: Secure login/registration system
 - **Responsive Design**: Optimized for all devices
 
-
+### Admin-Facing Features
+- **Comprehensive Dashboard**: Monitor sales, orders, and user activity
+- **Product Management**: Add/edit/delete bikes, brands, and categories
+- **Order Processing**: Manage and update order statuses
+- **User Management**: View/edit user profiles and activities
+- **Session Management**: Secure admin authentication system
